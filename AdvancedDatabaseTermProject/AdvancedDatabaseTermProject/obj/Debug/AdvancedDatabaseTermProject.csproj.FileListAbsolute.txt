@@ -1,0 +1,9 @@
+D:\COURSES\Advanced Topics in Database Systems\AdvancedDatabaseTermProject\AdvancedDatabaseTermProject\obj\Debug\AdvancedDatabaseTermProject.csprojAssemblyReference.cache
+D:\COURSES\Advanced Topics in Database Systems\AdvancedDatabaseTermProject\AdvancedDatabaseTermProject\obj\Debug\AdvancedDatabaseTermProject.Form1.resources
+D:\COURSES\Advanced Topics in Database Systems\AdvancedDatabaseTermProject\AdvancedDatabaseTermProject\obj\Debug\AdvancedDatabaseTermProject.Properties.Resources.resources
+D:\COURSES\Advanced Topics in Database Systems\AdvancedDatabaseTermProject\AdvancedDatabaseTermProject\obj\Debug\AdvancedDatabaseTermProject.csproj.GenerateResource.cache
+D:\COURSES\Advanced Topics in Database Systems\AdvancedDatabaseTermProject\AdvancedDatabaseTermProject\bin\Debug\AdvancedDatabaseTermProject.exe.config
+D:\COURSES\Advanced Topics in Database Systems\AdvancedDatabaseTermProject\AdvancedDatabaseTermProject\bin\Debug\AdvancedDatabaseTermProject.exe
+D:\COURSES\Advanced Topics in Database Systems\AdvancedDatabaseTermProject\AdvancedDatabaseTermProject\bin\Debug\AdvancedDatabaseTermProject.pdb
+D:\COURSES\Advanced Topics in Database Systems\AdvancedDatabaseTermProject\AdvancedDatabaseTermProject\obj\Debug\AdvancedDatabaseTermProject.exe
+D:\COURSES\Advanced Topics in Database Systems\AdvancedDatabaseTermProject\AdvancedDatabaseTermProject\obj\Debug\AdvancedDatabaseTermProject.pdb
